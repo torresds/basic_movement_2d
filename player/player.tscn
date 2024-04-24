@@ -247,3 +247,5 @@ autoplay = "idle"
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(0, -15)
 shape = SubResource("RectangleShape2D_fopj4")
+
+[node name="RayCast2D" type="RayCast2D" parent="."]
